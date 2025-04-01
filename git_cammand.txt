@@ -1,0 +1,23 @@
+ Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Kajal Amle\AppData\Local\... 
+   2 git status
+   3 git commit -m "added testing files"
+   4 git config --global user.email "kajalamle24... 
+   5 git config --global user.name "KajalAmle"      
+   6 git commit -m "added testing files"
+   7 rm .\Testing.py
+   8 git status
+   9 git restore Testing.py
+  11 ls
+  32 git remote set-url origin https://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@github.com/Kajalamle/Github-for-DevOps.git
+  33 clear
+  34 git remote -v
+  35 git push origin master
+  36 git push origin main
+  37 git remote add origin https://github.com/Kajalamle/DevOps-Next-Gen.git
+  38 git branch -M main
+  39 git push -u origin main
+  40 git push origin main
+  41 git remote set-url origin https://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@github.com/Kajalamle/Github-for-DevOps.git
+  42 history
